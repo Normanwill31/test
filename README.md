@@ -1,4 +1,6 @@
 # test
 
-S1IT Norman william J Cana 910146 PN
+Norman william J Cana
+SN1                PN
+Student, IKMG
 
